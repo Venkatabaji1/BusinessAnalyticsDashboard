@@ -1,0 +1,21 @@
+order_id,order_date,customer,product,category,region,quantity,unit_price,sales,profit
+ORD001,2026-01-05,Customer A,Laptop,Electronics,South,2,55000,110000,18000
+ORD002,2026-01-08,Customer B,Monitor,Electronics,North,3,18000,54000,9000
+ORD003,2026-01-12,Customer C,Office Chair,Furniture,West,5,7500,37500,7500
+ORD004,2026-01-18,Customer D,Keyboard,Accessories,South,10,1500,15000,4000
+ORD005,2026-01-23,Customer E,Laptop,Electronics,East,1,55000,55000,9000
+ORD006,2026-02-02,Customer F,Desk,Furniture,North,4,12000,48000,8000
+ORD007,2026-02-10,Customer G,Mouse,Accessories,West,15,800,12000,3600
+ORD008,2026-02-15,Customer H,Monitor,Electronics,South,4,18000,72000,12000
+ORD009,2026-02-21,Customer I,Laptop,Electronics,East,2,55000,110000,18000
+ORD010,2026-02-27,Customer J,Office Chair,Furniture,North,6,7500,45000,9000
+ORD011,2026-03-03,Customer K,Keyboard,Accessories,West,20,1500,30000,8000
+ORD012,2026-03-09,Customer L,Desk,Furniture,South,3,12000,36000,6000
+ORD013,2026-03-14,Customer M,Monitor,Electronics,East,5,18000,90000,15000
+ORD014,2026-03-20,Customer N,Laptop,Electronics,North,1,55000,55000,9000
+ORD015,2026-03-28,Customer O,Mouse,Accessories,South,25,800,20000,6000
+ORD016,2026-04-04,Customer P,Office Chair,Furniture,West,8,7500,60000,12000
+ORD017,2026-04-11,Customer Q,Monitor,Electronics,North,3,18000,54000,9000
+ORD018,2026-04-16,Customer R,Desk,Furniture,East,5,12000,60000,10000
+ORD019,2026-04-22,Customer S,Laptop,Electronics,South,2,55000,110000,18000
+ORD020,2026-04-29,Customer T,Keyboard,Accessories,West,12,1500,18000,4800
